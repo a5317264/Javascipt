@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\functions"
+		},
+		{
+			"path": "..\\objects"
+		},
+		{
+			"path": "..\\arrays"
+		}
+	]
+}
